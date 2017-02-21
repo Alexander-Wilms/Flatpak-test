@@ -1,4 +1,0 @@
-[Application]
-name=org.test.Helloflatpak
-runtime=org.freedesktop.Platform/x86_64/1.4
-sdk=org.freedesktop.Sdk/x86_64/1.4

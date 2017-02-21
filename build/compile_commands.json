@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/awilms/helloflatpak-source/build",
+    "command": "c++  '-I../files/bin/helloflatpak@exe' '-fdiagnostics-color=always' '-I.' '-I..' '-pipe' '-Wall' '-Winvalid-pch' '-Wnon-virtual-dtor' '-O0' '-g' '-MMD' '-MQ' '../files/bin/helloflatpak@exe/src_main.cpp.o' '-MF' '../files/bin/helloflatpak@exe/src_main.cpp.o.d' -o '../files/bin/helloflatpak@exe/src_main.cpp.o' -c ../src/main.cpp",
+    "file": "../src/main.cpp"
+  }
+]

@@ -1,4 +1,5 @@
 rm -r helloflatpak
+rm -r .flatpak-builder
 flatpak-builder --repo=repo helloflatpak org.test.Helloflatpak.json
 flatpak --user remote-add --no-gpg-verify --if-not-exists helloflatpakrepo repo
 flatpak --user uninstall org.test.Helloflatpak

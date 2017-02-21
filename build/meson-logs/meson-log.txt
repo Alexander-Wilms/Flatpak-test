@@ -1,0 +1,23 @@
+Build started at 2017-02-21T04:40:40.684283
+Python binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.37.1
+Source dir: /home/awilms/helloflatpak-source
+Build dir: /home/awilms/helloflatpak-source/build
+Build type: native build
+Project name: helloflatpak
+Sanity testing cpp compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /home/awilms/helloflatpak-source/build/meson-private/sanitycheckcpp.cc -o /home/awilms/helloflatpak-source/build/meson-private/sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/awilms/helloflatpak-source/build/meson-private/sanitycheckcpp.exe
+Native cpp compiler: c++ (gcc 6.3.1)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 1

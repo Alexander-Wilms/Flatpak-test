@@ -1,2 +1,2 @@
 project('helloflatpak','cpp')
-executable('../files/bin/helloflatpak', 'src/main.cpp')
+executable('../files/bin/helloflatpak', 'src/main.cpp', install:true)

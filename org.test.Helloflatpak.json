@@ -3,9 +3,9 @@
 	"runtime": "org.freedesktop.Platform",
 	"runtime-version": "1.4",
 	"sdk": "org.freedesktop.Sdk",
+	"command": "helloflatpak",
 	"finish-args": [
-		"--socket=x11",
-		"--command=helloflatpak"
+		"--socket=x11"
 	],
 	"_comment": "meson module: https://github.com/TingPing/flatpak-packages/blob/master/com.mesonbuild.Meson.json",
 	"modules": [
